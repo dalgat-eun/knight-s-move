@@ -1,4 +1,3 @@
-# knight-s-move
 <!DOCTYPE html>
 <html lang="en">
 <head>
